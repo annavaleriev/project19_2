@@ -1,0 +1,22 @@
+[
+  {
+    "model": "main.student",
+    "pk": 1,
+    "fields": {
+      "first_name": "Anna",
+      "last_name": "Ivanova",
+      "avatar": "students/kot.jpeg",
+      "is_active": true
+    }
+  },
+  {
+    "model": "main.student",
+    "pk": 2,
+    "fields": {
+      "first_name": "Вова",
+      "last_name": "Зуекщи",
+      "avatar": "",
+      "is_active": false
+    }
+  }
+]

@@ -10,5 +10,3 @@ class MaterialCreateView(CreateView):
     model = Material
     fields = ['title', 'body']
     success_url = reverse_lazy("many:index")
-
-
